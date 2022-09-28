@@ -1,0 +1,27 @@
+{
+  "name": "afterclassbot",
+  "version": "1.0.0",
+  "description": "A Discord Bot that pings you and your peers what you guys learned in class today.  Link to GitHub repo with code + readme.md (including description of project, inspiration behind project, explanation of problem solved (if applicable), tool/technologies used and how they are integrated, challenges you faced while building, what you enjoyed and learning)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThienNguyen2002/AfterClassBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThienNguyen2002/AfterClassBot/issues"
+  },
+  "homepage": "https://github.com/ThienNguyen2002/AfterClassBot#readme",
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2",
+    "node": "18.9",
+    "node-fetch": "^2.6.7"
+  }
+}
